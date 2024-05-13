@@ -22,6 +22,7 @@
 **Описание данных**
 
 Данные находятся в файле /datasets/autos.csv.
+
 **Признаки**
 - DateCrawled — дата скачивания анкеты из базы
 - VehicleType — тип автомобильного кузова
@@ -67,7 +68,8 @@ To enhance the research, do not limit yourself to gradient boosting. Try simpler
 **Описание данных**
 
 The data is in the file /datasets/autos.csv.
-**Признаки**
+
+**Features**
 - DateCrawled — the date the listing was downloaded from the database
 - VehicleType — the type of vehicle body
 - RegistrationYear — the year the car was registered
